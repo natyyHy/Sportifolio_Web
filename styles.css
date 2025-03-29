@@ -115,7 +115,7 @@ ul {
 
 .suggestion-section p, 
 .resources-section p {
-    padding-top: 80px; /* Ajuste conforme necessário */
+    padding-top: 80px;
     color: var(--color-white1);
 }
 
@@ -286,7 +286,7 @@ footer {
     }
 
     .mobile-menu ul li {
-        padding: 30px 0; /* Espaço extra entre os itens */
+        padding: 30px 0;
     }
 
     .material-symbols-outlined {
